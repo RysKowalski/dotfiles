@@ -20,3 +20,4 @@ rmpc
 thunar
 vesktop
 zen-browser
+hyprpaper
