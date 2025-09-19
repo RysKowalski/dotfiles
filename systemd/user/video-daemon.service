@@ -1,0 +1,10 @@
+[Unit]
+Description=Video Download & Play Daemon (User)
+
+[Service]
+ExecStart=%h/.local/bin/video-daemon
+Restart=always
+Environment=VIDEO_DAEMON_PORT=8001
+
+[Install]
+WantedBy=default.target
