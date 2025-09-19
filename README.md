@@ -1,0 +1,22 @@
+# PROGRAMS
+hyprland
+waybar
+fuzzel
+bottom
+fragments
+github-cli
+ghostty
+go
+gtk-3.0
+gtk-4.0
+htop
+mpd
+neovim
+pinta
+pulseaudio
+qt5
+qt6
+rmpc
+thunar
+vesktop
+zen-browser
