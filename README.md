@@ -21,3 +21,4 @@ thunar
 vesktop
 zen-browser
 hyprpaper
+dunstify
