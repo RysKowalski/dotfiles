@@ -16,6 +16,7 @@ x-scheme-handler/https=zen.desktop;
 image/png=imv.desktop;
 video/x-matroska=mpv.desktop;
 application/x-zerosize=nvim-3.desktop;nvim.desktop;
+application/pdf=libreoffice-draw.desktop;zen.desktop;
 
 [Default Applications]
 inode/directory=thunar.desktop
@@ -35,3 +36,4 @@ x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
 x-scheme-handler/http=zen.desktop
 x-scheme-handler/https=zen.desktop
 application/x-zerosize=nvim.desktop
+application/pdf=zen.desktop

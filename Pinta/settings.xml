@@ -11,8 +11,8 @@
   <setting name="menubar-shown" type="System.Boolean">False</setting>
   <setting name="statusbar-shown" type="System.Boolean">True</setting>
   <setting name="toolbox-shown" type="System.Boolean">True</setting>
-  <setting name="last-dialog-directory" type="System.String">file:///home/ryskowalski/Pictures</setting>
-  <setting name="last-selected-tool" type="System.String">PencilTool</setting>
+  <setting name="last-dialog-directory" type="System.String">file:///home/ryskowalski/Downloads</setting>
+  <setting name="last-selected-tool" type="System.String">PaintBrushTool</setting>
   <setting name="primary-color" type="System.String">FFFF0000</setting>
   <setting name="secondary-color" type="System.String">FFFFFFFF</setting>
   <setting name="recently-used-colors" type="System.String">FFFFFFFF,FFFF0000,FF4CFF00,FF000000,FFE5E5E5,FFE5E5E5,FFE5E5E5,FFE5E5E5,FFE5E5E5,FFE5E5E5</setting>
@@ -46,4 +46,6 @@
   <setting name="default-image-type" type="System.String">jpg</setting>
   <setting name="erasertool-antialias" type="System.Int32">0</setting>
   <setting name="eraser-erase-type" type="System.Int32">0</setting>
+  <setting name="color-picker-tool-selection" type="System.Int32">0</setting>
+  <setting name="color-picker-sample-type" type="System.Int32">0</setting>
 </settings>
