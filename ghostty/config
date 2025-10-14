@@ -42,6 +42,15 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
+font-family = "JetBrainsMono Nerd Font"
+
+# Fallback fonts (in order of priority)
+font-family = "Noto Sans Mono"
+font-family = "Noto Sans Mono CJK SC"
+font-family = "Noto Sans Mono CJK JP"
+font-family = "Symbola"
+font-family = "Unifont"
+
 
 font-size = 10
 #background = #1e1e1e

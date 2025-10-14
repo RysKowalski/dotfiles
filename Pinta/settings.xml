@@ -12,14 +12,14 @@
   <setting name="statusbar-shown" type="System.Boolean">True</setting>
   <setting name="toolbox-shown" type="System.Boolean">True</setting>
   <setting name="last-dialog-directory" type="System.String">file:///home/ryskowalski/Downloads</setting>
-  <setting name="last-selected-tool" type="System.String">PaintBrushTool</setting>
-  <setting name="primary-color" type="System.String">FFFF0000</setting>
+  <setting name="last-selected-tool" type="System.String">PaintBucketTool</setting>
+  <setting name="primary-color" type="System.String">FFE5E5E5</setting>
   <setting name="secondary-color" type="System.String">FFFFFFFF</setting>
-  <setting name="recently-used-colors" type="System.String">FFFFFFFF,FFFF0000,FF4CFF00,FF000000,FFE5E5E5,FFE5E5E5,FFE5E5E5,FFE5E5E5,FFE5E5E5,FFE5E5E5</setting>
+  <setting name="recently-used-colors" type="System.String">FF000000,FFFFD800,FFFF6A00,FFFFFFFF,FFFF0000,FF4CFF00,FFE5E5E5,FFE5E5E5,FFE5E5E5,FFE5E5E5</setting>
   <setting name="paintbrushtool-antialias" type="System.Int32">0</setting>
   <setting name="paintbrushtool-brush-width" type="System.Int32">2</setting>
   <setting name="paint-brush-brush" type="System.Int32">0</setting>
-  <setting name="erasertool-brush-width" type="System.Int32">2</setting>
+  <setting name="erasertool-brush-width" type="System.Int32">60</setting>
   <setting name="color-picker-sample-size" type="System.Int32">0</setting>
   <setting name="freeformshapetool-brush-width" type="System.Int32">2</setting>
   <setting name="clonestamptool-brush-width" type="System.Int32">2</setting>
@@ -48,4 +48,8 @@
   <setting name="eraser-erase-type" type="System.Int32">0</setting>
   <setting name="color-picker-tool-selection" type="System.Int32">0</setting>
   <setting name="color-picker-sample-type" type="System.Int32">0</setting>
+  <setting name="magicwandtool-fill-mode" type="System.Int32">1</setting>
+  <setting name="magicwandtool-fill-tolerance" type="System.Int32">11</setting>
+  <setting name="paintbuckettool-fill-mode" type="System.Int32">1</setting>
+  <setting name="paintbuckettool-fill-tolerance" type="System.Int32">0</setting>
 </settings>

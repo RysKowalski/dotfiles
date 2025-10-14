@@ -1,0 +1,522 @@
+{
+  "ui": {
+    "audioFeatures": {
+      "spotifyClientId": "a012fd242fe3443daaa8bdf9ebea304d",
+      "spotifyClientSecret": "72e7abeb6fa447b99497a9906a912065"
+    },
+    "autoPlayNext": false,
+    "autoTaggerConfig": {
+      "albumArtFile": false,
+      "camelot": false,
+      "capitalizeGenres": false,
+      "custom": {
+        "beatport": {
+          "art_resolution": 500,
+          "ignore_version": false,
+          "max_pages": 1
+        },
+        "beatsource": {
+          "art_resolution": 500
+        },
+        "bpmsupreme": {
+          "email": "",
+          "library": "Supreme",
+          "password": ""
+        },
+        "deezer": {
+          "art_resolution": 1200
+        },
+        "discogs": {
+          "max_albums": 4,
+          "token": "",
+          "track_number_int": false
+        },
+        "itunes": {
+          "art_resolution": 1000
+        }
+      },
+      "enableShazam": false,
+      "enhancedLrc": false,
+      "filenameTemplate": "%artists% - %title%",
+      "forceShazam": false,
+      "id3v24": true,
+      "includeSubfolders": true,
+      "matchById": false,
+      "matchDuration": false,
+      "maxDurationDifference": 30,
+      "mergeGenres": false,
+      "moveFailed": false,
+      "moveSuccess": false,
+      "multiplatform": false,
+      "multipleMatches": "Default",
+      "onlyYear": false,
+      "overwrite": true,
+      "overwriteTags": [],
+      "parseFilename": false,
+      "path": "/home/ryskowalski/Music",
+      "platforms": [
+        "beatport",
+        "spotify"
+      ],
+      "separators": {
+        "id3": ", ",
+        "mp4": ", "
+      },
+      "shortTitle": false,
+      "skipTagged": false,
+      "spotify": {
+        "clientId": "a012fd242fe3443daaa8bdf9ebea304d",
+        "clientSecret": "72e7abeb6fa447b99497a9906a912065"
+      },
+      "strictness": 0.7,
+      "stylesCustomTag": {
+        "id3": "STYLE",
+        "mp4": "STYLE",
+        "vorbis": "STYLE"
+      },
+      "stylesOptions": "default",
+      "tags": [
+        "genre",
+        "style",
+        "bpm",
+        "releaseDate",
+        "label",
+        "artist",
+        "album",
+        "title"
+      ],
+      "threads": 16,
+      "trackNumberLeadingZeroes": 0,
+      "type": "autoTagger",
+      "writeLrc": false
+    },
+    "autoTaggerProfile": "Default",
+    "autoTaggerProfiles": [
+      {
+        "config": {
+          "albumArtFile": false,
+          "camelot": false,
+          "capitalizeGenres": false,
+          "custom": {
+            "beatport": {
+              "art_resolution": 500,
+              "ignore_version": false,
+              "max_pages": 1
+            },
+            "beatsource": {
+              "art_resolution": 500
+            },
+            "bpmsupreme": {
+              "email": "",
+              "library": "Supreme",
+              "password": ""
+            },
+            "deezer": {
+              "art_resolution": 1200
+            },
+            "discogs": {
+              "max_albums": 4,
+              "token": "",
+              "track_number_int": false
+            },
+            "itunes": {
+              "art_resolution": 1000
+            }
+          },
+          "enableShazam": false,
+          "enhancedLrc": false,
+          "filenameTemplate": "%artists% - %title%",
+          "forceShazam": false,
+          "id3v24": true,
+          "includeSubfolders": true,
+          "matchById": false,
+          "matchDuration": false,
+          "maxDurationDifference": 30,
+          "mergeGenres": false,
+          "moveFailed": false,
+          "moveSuccess": false,
+          "multiplatform": false,
+          "multipleMatches": "Default",
+          "onlyYear": false,
+          "overwrite": true,
+          "overwriteTags": [],
+          "parseFilename": false,
+          "path": "/home/ryskowalski/Music",
+          "platforms": [
+            "beatport",
+            "spotify"
+          ],
+          "separators": {
+            "id3": ", ",
+            "mp4": ", "
+          },
+          "shortTitle": false,
+          "skipTagged": false,
+          "spotify": {
+            "clientId": "a012fd242fe3443daaa8bdf9ebea304d",
+            "clientSecret": "72e7abeb6fa447b99497a9906a912065"
+          },
+          "strictness": 0.7,
+          "stylesCustomTag": {
+            "id3": "STYLE",
+            "mp4": "STYLE",
+            "vorbis": "STYLE"
+          },
+          "stylesOptions": "default",
+          "tags": [
+            "genre",
+            "style",
+            "bpm",
+            "releaseDate",
+            "label",
+            "artist",
+            "album",
+            "title"
+          ],
+          "threads": 16,
+          "trackNumberLeadingZeroes": 0,
+          "type": "autoTagger",
+          "writeLrc": false
+        },
+        "name": "Default"
+      }
+    ],
+    "autoTaggerSinglePage": false,
+    "clientSidePlayer": false,
+    "continuePlayback": false,
+    "externalAudioPlayer": false,
+    "helpButton": true,
+    "nonNativeBrowser": false,
+    "path": "/home/ryskowalski/Music",
+    "playOnSeek": false,
+    "primaryColor": "#00D2BF",
+    "quickTag": {
+      "autosave": false,
+      "custom": [
+        {
+          "name": "Vibe",
+          "tag": {
+            "id3": "COMM",
+            "mp4": "©cmt",
+            "vorbis": "COMMENT"
+          },
+          "values": [
+            {
+              "val": "Afro"
+            },
+            {
+              "val": "Asian"
+            },
+            {
+              "val": "Arabic"
+            },
+            {
+              "val": "Classic"
+            },
+            {
+              "val": "Dirty"
+            },
+            {
+              "val": "Etnic"
+            },
+            {
+              "val": "Funky"
+            },
+            {
+              "val": "Gangsta"
+            },
+            {
+              "val": "Glitchy"
+            },
+            {
+              "val": "Melodic"
+            },
+            {
+              "val": "Sensual"
+            },
+            {
+              "val": "Soulful"
+            },
+            {
+              "val": "old"
+            },
+            {
+              "val": "undertale"
+            },
+            {
+              "val": "deltarune"
+            },
+            {
+              "val": "undertale/deltarune"
+            }
+          ]
+        },
+        {
+          "name": "Situation",
+          "tag": {
+            "id3": "COMM",
+            "mp4": "©cmt",
+            "vorbis": "COMMENT"
+          },
+          "values": [
+            {
+              "val": "Start"
+            },
+            {
+              "val": "Build"
+            },
+            {
+              "val": "Peak"
+            },
+            {
+              "val": "Sustain"
+            },
+            {
+              "val": "Release"
+            }
+          ]
+        },
+        {
+          "name": "Instruments",
+          "tag": {
+            "id3": "COMM",
+            "mp4": "©cmt",
+            "vorbis": "COMMENT"
+          },
+          "values": [
+            {
+              "val": "Vocals"
+            },
+            {
+              "val": "Bass Heavy"
+            },
+            {
+              "val": "Congas"
+            },
+            {
+              "val": "Guitar"
+            },
+            {
+              "val": "Horns"
+            },
+            {
+              "val": "Organ"
+            },
+            {
+              "val": "Piano"
+            },
+            {
+              "val": "Strings"
+            },
+            {
+              "val": "Sax"
+            }
+          ]
+        }
+      ],
+      "energyKeys": [
+        {
+          "alt": false,
+          "ctrl": false,
+          "shift": false
+        },
+        {
+          "alt": false,
+          "ctrl": false,
+          "shift": false
+        },
+        {
+          "alt": false,
+          "ctrl": false,
+          "shift": false
+        },
+        {
+          "alt": false,
+          "ctrl": false,
+          "shift": false
+        },
+        {
+          "alt": false,
+          "ctrl": false,
+          "shift": false
+        }
+      ],
+      "energyTag": {
+        "symbol": "*",
+        "tag": {
+          "id3": "TCOM",
+          "mp4": "©wrt",
+          "vorbis": "COMPOSER"
+        },
+        "type": "rating"
+      },
+      "genres": [
+        {
+          "genre": "2-step",
+          "subgenres": []
+        },
+        {
+          "genre": "Acid",
+          "subgenres": []
+        },
+        {
+          "genre": "Breakbeat",
+          "subgenres": []
+        },
+        {
+          "genre": "Disco",
+          "subgenres": []
+        },
+        {
+          "genre": "Drum & Bass",
+          "subgenres": []
+        },
+        {
+          "genre": "Electro",
+          "subgenres": [
+            "House",
+            "Dubstep",
+            "EDM"
+          ]
+        },
+        {
+          "genre": "Funk",
+          "subgenres": []
+        },
+        {
+          "genre": "Hardcore",
+          "subgenres": []
+        },
+        {
+          "genre": "Hiphop",
+          "subgenres": []
+        },
+        {
+          "genre": "House",
+          "subgenres": []
+        },
+        {
+          "genre": "Industrial",
+          "subgenres": []
+        },
+        {
+          "genre": "Jungle",
+          "subgenres": []
+        },
+        {
+          "genre": "Latin",
+          "subgenres": []
+        },
+        {
+          "genre": "Minimal",
+          "subgenres": []
+        },
+        {
+          "genre": "Nu-Disco",
+          "subgenres": []
+        },
+        {
+          "genre": "Oldies",
+          "subgenres": []
+        },
+        {
+          "genre": "Pop",
+          "subgenres": []
+        },
+        {
+          "genre": "Reggae",
+          "subgenres": []
+        },
+        {
+          "genre": "Rock",
+          "subgenres": []
+        },
+        {
+          "genre": "Techno",
+          "subgenres": []
+        },
+        {
+          "genre": "Trance",
+          "subgenres": []
+        }
+      ],
+      "id3v24": false,
+      "moodTag": {
+        "id3": "TMOO",
+        "mp4": "iTunes:MOOD",
+        "vorbis": "MOOD"
+      },
+      "moods": [
+        {
+          "color": "amber",
+          "mood": "Happy"
+        },
+        {
+          "color": "indigo",
+          "mood": "Sad"
+        },
+        {
+          "color": "green",
+          "mood": "Bright"
+        },
+        {
+          "color": "deep-purple",
+          "mood": "Dark"
+        },
+        {
+          "color": "red",
+          "mood": "Angry"
+        },
+        {
+          "color": "teal",
+          "mood": "Chill"
+        },
+        {
+          "color": "pink",
+          "mood": "Lovely"
+        },
+        {
+          "color": "light-blue",
+          "mood": "Powerful"
+        },
+        {
+          "color": "purple",
+          "mood": "Sexy"
+        }
+      ],
+      "noteTag": {
+        "keybind": {
+          "alt": false,
+          "ctrl": false,
+          "shift": false
+        },
+        "tag": {
+          "id3": "COMM",
+          "mp4": "©cmt",
+          "vorbis": "COMMENT"
+        }
+      },
+      "recursive": false,
+      "separators": {
+        "id3": ", ",
+        "mp4": ", "
+      },
+      "sortDescending": false,
+      "sortOption": "title",
+      "thinTracks": false,
+      "trackIndex": -1
+    },
+    "renamer": {
+      "copy": false,
+      "overwrite": false,
+      "subfolders": true
+    },
+    "showAutoTaggerProfiles": false,
+    "tagEditorAutosave": false,
+    "tagEditorCustom": [],
+    "tagEditorDouble": false,
+    "tagEditorPlayer": false,
+    "volume": 0.5
+  },
+  "version": 2
+}

@@ -16,7 +16,10 @@ x-scheme-handler/https=zen.desktop;
 image/png=imv.desktop;
 video/x-matroska=mpv.desktop;
 application/x-zerosize=nvim-3.desktop;nvim.desktop;
-application/pdf=libreoffice-draw.desktop;zen.desktop;
+application/pdf=firefox.desktop;libreoffice-draw.desktop;
+video/mp4=mpv.desktop;
+image/jpeg=pinta.desktop;
+video/mpeg=mpv.desktop;
 
 [Default Applications]
 inode/directory=thunar.desktop
@@ -37,3 +40,4 @@ x-scheme-handler/http=zen.desktop
 x-scheme-handler/https=zen.desktop
 application/x-zerosize=nvim.desktop
 application/pdf=zen.desktop
+video/mp4=mpv.desktop

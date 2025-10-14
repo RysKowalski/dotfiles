@@ -1,0 +1,756 @@
+2025-10-14 16:25:26 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:25:26 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:25:34 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:25:34 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:25:51 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:25:51 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:25:57 [ERROR] onetagger::socket: Failed loading settings, using defaults. No such file or directory (os error 2)
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing title tag
+2025-10-14 16:26:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing title tag
+2025-10-14 16:26:48 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:27:10 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:27:14 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:27:15 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:28:02 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:28:09 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:28:10 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:28:15 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:28:35 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:29:11 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:29:42 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:30:30 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/output.mp4 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing title tag
+2025-10-14 16:30:34 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing title tag
+2025-10-14 16:30:35 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing title tag
+2025-10-14 16:31:00 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing title tag
+2025-10-14 16:31:04 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:34:10 [INFO] onetagger_cli: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Starting tagger with: 41 files!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Starting tagging: 41 files, 16 threads!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Buena.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Ich Troje - Nienawisc.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./La_Isla_Bonita-Madonna.mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Starting beatport
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./All That She Wants.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Dance Monkey.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./symetryczno-liryczno-czy-cos.mp4
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Ich Troje - Gwiazdor.mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Toby Fox -Hammer of Justice.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Toby Fox - BIG SHOT.mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:34:10 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: Tagging: ./Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./symetryczno-liryczno-czy-cos.mp4
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:34:10 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./Katy Perry - I Kissed A Girl.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Buena.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3
+2025-10-14 16:34:11 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./ICH TROJE - JEANNY [0UXLCJSJfbU].mp3
+2025-10-14 16:34:11 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:34:11 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Ich Troje - Nienawisc.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3
+2025-10-14 16:34:11 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./ICH TROJE - JEANNY [0UXLCJSJfbU].mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:34:11 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./George Ezra - Shotgun.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Toby Fox - BIG SHOT.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./Toby Fox -It's Pronounced 'Rules' loop.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Ich Troje - Gwiazdor.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./Wanda i Banda - Hi-Fi.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 16:34:11 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (./La_Isla_Bonita-Madonna.mp3)
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./In My Mind.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./La_Isla_Bonita-Madonna.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: Tagging: ./Hung-Up.mp3
+2025-10-14 16:34:11 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: ./Hung-Up.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Toby Fox -Hammer of Justice.mp3
+2025-10-14 16:34:11 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (./All That She Wants.mp3)
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./All That She Wants.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Dance Monkey.mp3
+2025-10-14 16:34:11 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 16:34:12 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (./Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3)
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:34:12 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (./Amy Macdonald - This Is The Life.mp3)
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Wanda i Banda - Hi-Fi.mp3
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Toby Fox -It's Pronounced 'Rules' loop.mp3
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./George Ezra - Shotgun.mp3
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 16:34:12 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (./Katy Perry - I Kissed A Girl.mp3)
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Katy Perry - I Kissed A Girl.mp3
+2025-10-14 16:34:12 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (./In My Mind.mp3)
+2025-10-14 16:34:12 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./In My Mind.mp3
+2025-10-14 16:34:13 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (./Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3)
+2025-10-14 16:34:13 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: ./Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 16:34:13 [INFO] onetagger_autotag: Written failed songs to: /home/ryskowalski/.config/onetagger/runs/failed-1760452453222.m3u, successful to: /home/ryskowalski/.config/onetagger/runs/success-1760452453222.m3u
+2025-10-14 16:34:13 [INFO] onetagger_cli: Tagging finished, took: 3 seconds.
+2025-10-14 16:34:49 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:34:49 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:35:05 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:35:05 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:35:17 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:35:17 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing title tag
+2025-10-14 16:35:24 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing title tag
+2025-10-14 16:41:30 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:41:30 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing artist tag
+2025-10-14 16:41:35 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing artist tag
+2025-10-14 16:49:12 [INFO] onetagger::socket: AutoTagger config: TaggerConfig { platforms: ["beatport", "spotify"], path: Some("~/Music"), tags: [Genre, Style, BPM, ReleaseDate, Label, Artist, Album, Title], separators: TagSeparators { id3: ", ", vorbis: None, mp4: ", " }, id3v24: true, overwrite: true, overwrite_tags: [], threads: 16, strictness: 0.7, merge_genres: false, album_art_file: false, camelot: false, parse_filename: false, filename_template: Some("%artists% - %title%"), short_title: false, match_duration: false, max_duration_difference: 30, match_by_id: false, multiple_matches: Default, post_command: None, styles_options: Default, styles_custom_tag: Some(FrameName { id3: "STYLE", vorbis: "STYLE", mp4: "STYLE" }), track_number_leading_zeroes: 0, enable_shazam: false, force_shazam: false, skip_tagged: false, include_subfolders: true, only_year: false, title_regex: None, move_success: false, move_success_path: None, move_failed: false, move_failed_path: None, write_lrc: false, enhanced_lrc: false, capitalize_genres: false, id3_comm_lang: None, multiplatform: false, custom: {}, spotify: None }
+2025-10-14 16:49:12 [INFO] onetagger_autotag: Starting tagger with: 0 files!
+2025-10-14 16:49:12 [INFO] onetagger_autotag: All tagged succesfully!
+2025-10-14 16:49:12 [INFO] onetagger_autotag: Written failed songs to: /home/ryskowalski/.config/onetagger/runs/failed-1760453352202.m3u, successful to: /home/ryskowalski/.config/onetagger/runs/success-1760453352202.m3u
+2025-10-14 16:49:12 [INFO] onetagger::socket: Tagging finished, took: 0 seconds.
+2025-10-14 16:49:50 [INFO] onetagger::socket: AutoTagger config: TaggerConfig { platforms: ["beatport", "spotify"], path: Some("/home/ryskowalski/Music"), tags: [Genre, Style, BPM, ReleaseDate, Label, Artist, Album, Title], separators: TagSeparators { id3: ", ", vorbis: None, mp4: ", " }, id3v24: true, overwrite: true, overwrite_tags: [], threads: 16, strictness: 0.7, merge_genres: false, album_art_file: false, camelot: false, parse_filename: false, filename_template: Some("%artists% - %title%"), short_title: false, match_duration: false, max_duration_difference: 30, match_by_id: false, multiple_matches: Default, post_command: None, styles_options: Default, styles_custom_tag: Some(FrameName { id3: "STYLE", vorbis: "STYLE", mp4: "STYLE" }), track_number_leading_zeroes: 0, enable_shazam: false, force_shazam: false, skip_tagged: false, include_subfolders: true, only_year: false, title_regex: None, move_success: false, move_success_path: None, move_failed: false, move_failed_path: None, write_lrc: false, enhanced_lrc: false, capitalize_genres: false, id3_comm_lang: None, multiplatform: false, custom: {}, spotify: None }
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Starting tagger with: 41 files!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Starting tagging: 41 files, 16 threads!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox -Hammer of Justice.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Nienawisc.mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Starting beatport
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox - BIG SHOT.mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Gwiazdor.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:49:50 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:49:50 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Ich Troje - Nienawisc.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Ich Troje - Gwiazdor.mp3
+2025-10-14 16:49:51 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3
+2025-10-14 16:49:51 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3
+2025-10-14 16:49:51 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:49:51 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3
+2025-10-14 16:49:51 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/George Ezra - Shotgun.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox -It's Pronounced 'Rules' loop.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Toby Fox - BIG SHOT.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Wanda i Banda - Hi-Fi.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/In My Mind.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Hung-Up.mp3
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 16:49:51 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:51 [INFO] onetagger_autotag: [beatport] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/Hung-Up.mp3
+2025-10-14 16:49:52 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (/home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3)
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:49:52 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (/home/ryskowalski/Music/All That She Wants.mp3)
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Toby Fox -Hammer of Justice.mp3
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/George Ezra - Shotgun.mp3
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Toby Fox -It's Pronounced 'Rules' loop.mp3
+2025-10-14 16:49:52 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (/home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3)
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 16:49:52 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (/home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3)
+2025-10-14 16:49:52 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3
+2025-10-14 16:49:53 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (/home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3)
+2025-10-14 16:49:53 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:49:53 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (/home/ryskowalski/Music/In My Mind.mp3)
+2025-10-14 16:49:53 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/In My Mind.mp3
+2025-10-14 16:49:53 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Wanda i Banda - Hi-Fi.mp3
+2025-10-14 16:49:53 [ERROR] onetagger_autotag: Matching error: error decoding response body: expected value at line 1 column 1 (/home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3)
+2025-10-14 16:49:53 [INFO] onetagger_autotag: [beatport] State: Error, Accuracy: None, Path: /home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 16:49:53 [INFO] onetagger_autotag: Starting tagging: 41 files, 1 threads!
+2025-10-14 16:49:53 [INFO] onetagger_autotag: Starting spotify
+2025-10-14 16:49:53 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3
+2025-10-14 16:49:53 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:53 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:49:53 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3
+2025-10-14 16:49:54 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:54 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3
+2025-10-14 16:49:54 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:49:54 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:54 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3
+2025-10-14 16:49:54 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3
+2025-10-14 16:49:54 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:54 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Nienawisc.mp3
+2025-10-14 16:49:54 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3
+2025-10-14 16:49:54 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:54 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 16:49:54 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Ich Troje - Nienawisc.mp3
+2025-10-14 16:49:55 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:55 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 16:49:55 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 16:49:55 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:55 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 16:49:55 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 16:49:56 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:56 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:49:56 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:56 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 16:49:56 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3
+2025-10-14 16:49:56 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:49:56 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:56 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 16:49:56 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3
+2025-10-14 16:49:56 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:56 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox -Hammer of Justice.mp3
+2025-10-14 16:49:56 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 16:49:57 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:57 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 16:49:57 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Toby Fox -Hammer of Justice.mp3
+2025-10-14 16:49:57 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:57 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3
+2025-10-14 16:49:57 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 16:49:57 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:57 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:49:57 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3
+2025-10-14 16:49:58 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:58 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4
+2025-10-14 16:49:58 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:49:58 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:58 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3
+2025-10-14 16:49:58 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4
+2025-10-14 16:49:58 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:58 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:49:58 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3
+2025-10-14 16:49:58 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:58 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3
+2025-10-14 16:49:58 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:49:58 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:58 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Gwiazdor.mp3
+2025-10-14 16:49:58 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3
+2025-10-14 16:49:59 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:59 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3
+2025-10-14 16:49:59 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Ich Troje - Gwiazdor.mp3
+2025-10-14 16:49:59 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:49:59 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox - BIG SHOT.mp3
+2025-10-14 16:49:59 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3
+2025-10-14 16:49:59 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:49:59 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 16:49:59 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Toby Fox - BIG SHOT.mp3
+2025-10-14 16:50:00 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:00 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:50:00 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 16:50:00 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:00 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 16:50:00 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:50:00 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:00 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:50:00 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 16:50:00 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:00 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 16:50:00 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:50:00 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:00 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 16:50:00 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 16:50:01 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:01 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:50:01 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 16:50:01 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:01 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3
+2025-10-14 16:50:01 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:50:02 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:02 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3
+2025-10-14 16:50:02 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3
+2025-10-14 16:50:02 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:02 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3
+2025-10-14 16:50:02 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3
+2025-10-14 16:50:02 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:02 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:50:02 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3
+2025-10-14 16:50:02 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:02 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3
+2025-10-14 16:50:02 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:50:02 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:02 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3
+2025-10-14 16:50:02 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3
+2025-10-14 16:50:02 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:02 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/George Ezra - Shotgun.mp3
+2025-10-14 16:50:02 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3
+2025-10-14 16:50:02 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:02 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 16:50:02 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/George Ezra - Shotgun.mp3
+2025-10-14 16:50:03 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:03 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 16:50:03 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Toby Fox -It's Pronounced 'Rules' loop.mp3
+2025-10-14 16:50:03 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:03 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Wanda i Banda - Hi-Fi.mp3
+2025-10-14 16:50:03 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Toby Fox -It's Pronounced 'Rules' loop.mp3
+2025-10-14 16:50:03 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:04 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/In My Mind.mp3
+2025-10-14 16:50:04 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/Wanda i Banda - Hi-Fi.mp3
+2025-10-14 16:50:04 [INFO] onetagger_platforms::spotify: Matched by ISRC
+2025-10-14 16:50:04 [INFO] onetagger_autotag: Tagging: /home/ryskowalski/Music/Hung-Up.mp3
+2025-10-14 16:50:04 [INFO] onetagger_autotag: [spotify] State: Ok, Accuracy: Some(1.0), Path: /home/ryskowalski/Music/In My Mind.mp3
+2025-10-14 16:50:04 [WARN] onetagger_autotag: Error loading file: Missing artist tag!
+2025-10-14 16:50:04 [INFO] onetagger_autotag: [spotify] State: Skipped, Accuracy: None, Path: /home/ryskowalski/Music/Hung-Up.mp3
+2025-10-14 16:50:04 [INFO] onetagger_autotag: Written failed songs to: /home/ryskowalski/.config/onetagger/runs/failed-1760453404653.m3u, successful to: /home/ryskowalski/.config/onetagger/runs/success-1760453404653.m3u
+2025-10-14 16:50:04 [INFO] onetagger::socket: Tagging finished, took: 14 seconds.
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing artist tag
+2025-10-14 16:50:12 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing artist tag
+2025-10-14 16:50:46 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:50:46 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:50:48 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing artist tag
+2025-10-14 16:52:46 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3 Missing artist tag
+2025-10-14 16:53:08 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/Hung-Up.mp3 Missing artist tag
+2025-10-14 16:53:38 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 16:55:59 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:55:59 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:56:03 [ERROR] onetagger::quicktag: Error loading file: /home/ryskowalski/Music/symetryczno-liryczno-czy-cos.mp4 Missing title tag
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:56:03 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:56:29 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 16:56:29 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO ｜ TELEDYSK (OFFICIAL VIDEO) [alu2yRpcak0].mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1999 ICH TROJE VIDEO - A WSZYSTKO TO BO CIEBIE KOCHAM [869mcrMEysE].mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 16:56:42 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump - Original Mix.mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Freddie Mercury - Living On My Own (Official Video Remastered) [DedaEVIbTkY].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/George Ezra - Shotgun (Official Lyric Video) [v_B3qkp4nO4].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/George Ezra - Shotgun.mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Hung-Up.mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - CI WIELCY [QyGMq1qSvvk].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - DRZWI ｜ ITI Cd. [YKAtVOa4SLs].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - JEANNY [0UXLCJSJfbU].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - LUSTRO ｜ ITI Cd. [Y_KVc7XGCSw].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO ｜ Ad. 4 [bUmZarI6Mcc].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - SAM ｜ ITI Cd. [1WNxUcX_S6s].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA [74yFa_jWsdM].mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Gwiazdor.mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 16:56:47 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 16:56:48 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Nienawisc.mp3
+2025-10-14 16:56:48 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 16:56:49 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/In My Mind.mp3
+2025-10-14 16:56:49 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3
+2025-10-14 16:56:49 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3
+2025-10-14 16:56:49 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 16:56:49 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/PIERSI - Bałkanica (Official Video) [HD] [Pqaxe5o2Apo].mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일) M⧸V [9bZkp7q19f0].mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox - BIG SHOT.mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -Hammer of Justice.mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -It's Pronounced 'Rules' loop.mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Wanda i Banda - Hi-Fi.mp3
+2025-10-14 16:56:56 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 16:57:02 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:02:11 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:02:43 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:03:30 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:03:32 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:08:40 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 17:08:40 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 17:08:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO.mp3
+2025-10-14 17:08:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1999 ICH TROJE - A WSZYSTKO TO BO CIEBIE KOCHAM.mp3
+2025-10-14 17:08:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 17:08:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 17:08:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 17:08:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 17:08:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 17:08:53 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:11:10 [INFO] onetagger: 
+
+Starting OneTagger v1.7.0 Commit: 00595e5c OS: linux
+
+
+2025-10-14 17:11:10 [INFO] onetagger::ui: Starting server on http://127.0.0.1:36913 ws://127.0.0.1:36912
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO.mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump.mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1999 ICH TROJE - A WSZYSTKO TO BO CIEBIE KOCHAM.mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 17:11:17 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 17:11:21 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Freddie Mercury - Living On My Own.mp3
+2025-10-14 17:11:21 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/George Ezra - Shotgun.mp3
+2025-10-14 17:11:21 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Hung-Up.mp3
+2025-10-14 17:11:21 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - CI WIELCY.mp3
+2025-10-14 17:11:21 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - DRZWI.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - JEANNY.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - LUSTRO.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - SAM.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Gwiazdor.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Nienawisc.mp3
+2025-10-14 17:11:22 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 17:11:23 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/In My Mind.mp3
+2025-10-14 17:11:23 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3
+2025-10-14 17:11:23 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3
+2025-10-14 17:11:23 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 17:11:23 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/PIERSI - Bałkanica.mp3
+2025-10-14 17:11:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일).mp3
+2025-10-14 17:11:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 17:11:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox - BIG SHOT.mp3
+2025-10-14 17:11:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -Hammer of Justice.mp3
+2025-10-14 17:11:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -It's Pronounced 'Rules'.mp3
+2025-10-14 17:11:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 17:11:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 17:11:25 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Wanda i Banda - Hi-Fi.mp3
+2025-10-14 17:11:25 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 17:12:43 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:13:00 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:13:12 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 17:13:16 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:13:20 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO.mp3
+2025-10-14 17:13:20 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1999 ICH TROJE - A WSZYSTKO TO BO CIEBIE KOCHAM.mp3
+2025-10-14 17:13:20 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 17:13:24 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1999 ICH TROJE - A WSZYSTKO TO BO CIEBIE KOCHAM.mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/27. It’s TV Time! (DELTARUNE Chapter 3+4 Soundtrack) -Toby Fox.mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/1996 ICH TROJE - PRAWO.mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/30. Black Knife (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [B8Us0DZgexw].mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/53. A DARK ZONE (DELTARUNE Chapter 3+4 Soundtrack) - Toby Fox [K-ifukvnICY].mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Amy Macdonald - This Is The Life.mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/All That She Wants.mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Buena.mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Dance Monkey.mp3
+2025-10-14 17:13:24 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Federico Scavo, Andrea Guzzoletti - Strump.mp3
+2025-10-14 17:13:26 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Freddie Mercury - Living On My Own.mp3
+2025-10-14 17:13:26 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/George Ezra - Shotgun.mp3
+2025-10-14 17:13:26 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Hung-Up.mp3
+2025-10-14 17:13:26 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - CI WIELCY.mp3
+2025-10-14 17:13:26 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - DRZWI.mp3
+2025-10-14 17:13:26 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - JEANNY.mp3
+2025-10-14 17:13:26 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - LUSTRO.mp3
+2025-10-14 17:13:27 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - RAZEM A JEDNAK OSOBNO.mp3
+2025-10-14 17:13:27 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - SAM.mp3
+2025-10-14 17:13:27 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/ICH TROJE - SZAROŚĆ DNIA.mp3
+2025-10-14 17:13:27 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Gwiazdor.mp3
+2025-10-14 17:13:28 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Hit Mix '99 czyli Co To Jest za Jazda!.mp3
+2025-10-14 17:13:28 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Kolysanka Dla Ani.mp3
+2025-10-14 17:13:28 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Ich Troje - Nienawisc.mp3
+2025-10-14 17:13:28 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Imany, Filatov & Karas - Don't Be so Shy - Filatov & Karas Remix.mp3
+2025-10-14 17:13:28 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/In My Mind.mp3
+2025-10-14 17:13:29 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Katy Perry - I Kissed A Girl.mp3
+2025-10-14 17:13:29 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/La_Isla_Bonita-Madonna.mp3
+2025-10-14 17:13:31 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/NIGERIA 2000 MIXTAPE CD2.mp3
+2025-10-14 17:13:31 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/PIERSI - Bałkanica.mp3
+2025-10-14 17:13:31 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/PSY - GANGNAM STYLE(강남스타일).mp3
+2025-10-14 17:13:31 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox, Lena Raine, Marcy Nabors - Attack of the Killer Queen.mp3
+2025-10-14 17:13:31 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:13:41 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox - BIG SHOT.mp3
+2025-10-14 17:13:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -Hammer of Justice.mp3
+2025-10-14 17:13:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -It's Pronounced 'Rules'.mp3
+2025-10-14 17:13:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Toby Fox -THE WORLD REVOLVING.mp3
+2025-10-14 17:13:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Tuesday (feat. Danelle Sandoval).mp3
+2025-10-14 17:13:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/Wanda i Banda - Hi-Fi.mp3
+2025-10-14 17:13:43 [WARN] onetagger::ui: Error loading album art: Missing album art! File: /home/ryskowalski/Music/przemekbestgames - Skibidi Toilet GONI MNIE - Skibidi Toilet Piosenka.mp3
+2025-10-14 17:13:44 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:14:01 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!
+2025-10-14 17:15:13 [WARN] onetagger::socket: Connection closed normally - Websocket can't read or write, closing connection!

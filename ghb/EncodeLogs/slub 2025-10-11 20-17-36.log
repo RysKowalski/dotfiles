@@ -1,0 +1,303 @@
+Handbrake Version: 20250906052339-dddf75f75-makepkg (2025092401)
+[20:17:36] gtkgui: Preset: /General/Fast 1080p30
+[20:17:36] Starting work at: Sat Oct 11 20:17:36 2025
+
+[20:17:36] 1 job(s) to process
+[20:17:36] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "Name": "Stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 1,
+                    "Seconds": 29,
+                    "Ticks": 8099291
+                },
+                "Name": "Chapter 1"
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/ryskowalski/Videos/slub.mp4",
+        "InlineParameterSets": false,
+        "Mux": "m4v",
+        "Options": {
+            "IpodAtom": false,
+            "Optimize": false
+        }
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 4,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 20,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 576,
+                    "width": 720
+                }
+            }
+        ]
+    },
+    "Metadata": {},
+    "PAR": {
+        "Den": 15,
+        "Num": 16
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "HWDecode": 0,
+        "KeepDuplicateTitles": false,
+        "Path": "/home/ryskowalski/Documents/My Disc.iso",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": true,
+            "Forced": true
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "AdapterIndex": -1,
+        "AsyncDepth": 0,
+        "ChromaLocation": 1,
+        "ColorInputFormat": 0,
+        "ColorMatrix": 5,
+        "ColorOutputFormat": 0,
+        "ColorPrimaries": 5,
+        "ColorRange": 1,
+        "ColorTransfer": 5,
+        "Encoder": "x264",
+        "HardwareDecode": 0,
+        "Level": "4.0",
+        "MultiPass": false,
+        "Options": "",
+        "PasshtruHDRDynamicMetadata": 6,
+        "Preset": "fast",
+        "Profile": "main",
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false
+    }
+}
+[20:17:36] CPU: 13th Gen Intel(R) Core(TM) i5-13600KF
+[20:17:36]  - logical processor count: 20
+[20:17:36] Intel Quick Sync Video support: no
+[20:17:36] hb_scan: path=/home/ryskowalski/Documents/My Disc.iso, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/ryskowalski/Documents/My Disc.iso
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+[20:17:36] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[20:17:36] dvd: not a dvd - trying as a stream/file instead
+[20:17:36] file is MPEG Program Stream
+[20:17:37] Probing 1 unknown stream
+[20:17:37]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:17:37] Found the following streams
+[20:17:37]     Video Streams : 
+[20:17:37]       0xe0-0x0 type mpegvideo (0x2)
+[20:17:37]     Audio Streams : 
+[20:17:37]       0xdf-0x0 type MPEG2 (0x4)
+[20:17:37]       0xbd-0xa0 type DVD Subtitle (0x83)
+[20:17:37]     Subtitle Streams : 
+[20:17:37]       0xbd-0x20 type DVD Subtitle (0x0)
+[20:17:37]     Other Streams : 
+[20:17:37] stream id 0xdf (type 0x4 substream 0x0) audio 0xdf
+[20:17:37] stream id 0xbd (type 0x83 substream 0xa0) audio 0xa000bd
+[20:17:37] stream id 0xbd (type 0x0 substream 0x20) subtitle 0x2000bd
+[20:17:37] scan: decoding previews for title 1
+[20:17:37] file is MPEG Program Stream
+[20:17:37] Probing 1 unknown stream
+[20:17:37]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:17:37] scan: audio 0xa000bd: LPCM, rate=48000Hz, bitrate=1536000 Unknown (LPCM, 2.0 ch, 1536 kbps)
+[20:17:37] stream: 6 good frames, 0 errors (0%)
+[20:17:37] using bitstream PAR 16:15
+[20:17:37] scan: 10 previews, 720x576, 25.000 fps, autocrop = 0/0/0/0, aspect 4:3, PAR 16:15, color profile: 5-5-5, chroma location: left
+[20:17:37] scan: removing audio 0xdf because no bitrate found
+[20:17:37] libhb: scan thread found 1 valid title(s)
+[20:17:37] Starting Task: Subtitle Scan
+[20:17:37] work: skipping crop/scale filter
+[20:17:37] job configuration:
+[20:17:37]  * source
+[20:17:37]    + /home/ryskowalski/Documents/My Disc.iso
+[20:17:37]    + title 1, chapter(s) 1 to 1
+[20:17:37]  * destination
+[20:17:37]    + /home/ryskowalski/Videos/slub.mp4
+[20:17:37]    + container: MPEG-4 (libavformat)
+[20:17:37]      + align initial A/V stream timestamps
+[20:17:37]  * video track
+[20:17:37]    + decoder: mpeg2video 8-bit (yuv420p)
+[20:17:37]      + bitrate 200 kbps
+[20:17:37]    + filters
+[20:17:37]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[20:17:37]      + Decomb (mode=39)
+[20:17:37]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[20:17:37]        + frame rate: 25.000 fps -> peak rate limited to 30.000 fps
+[20:17:37]    + Output geometry
+[20:17:37]      + storage dimensions: 720 x 576
+[20:17:37]      + pixel aspect ratio: 16 : 15
+[20:17:37]      + display dimensions: 768 x 576
+[20:17:37]  * Foreign Audio Search: Render/Burn-in, Forced Only
+[20:17:37]    + subtitle, Unknown (VOBSUB) (track 2, id 0x2000bd, Picture)
+[20:17:37] file is MPEG Program Stream
+[20:17:37] Probing 1 unknown stream
+[20:17:37]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:17:37] sync: expecting 2249 video frames
+[20:17:37] reader: done. 4 scr changes
+[20:17:37] work: average encoding speed for job is 0.000000 fps
+[20:17:37] comb detect: heavy 0 | light 0 | uncombed 0 | total 0
+[20:17:37] vfr: 0 frames output, 0 dropped and 0 duped for CFR/PFR
+[20:17:37] vfr: lost time: 0 (0 frames)
+[20:17:37] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[20:17:37] stream: 34991 good frames, 0 errors (0%)
+[20:17:37] mpeg2video-decoder done: 0 frames, 1 decoder errors
+[20:17:37] sync: got 0 frames, 2249 expected
+[20:17:37] Subtitle track 2 (id 0x2000bd) 'Unknown (VOBSUB)': 3 hits (3 forced)
+[20:17:37] Found a subtitle candidate with id 0x2000bd (contains forced subs)
+[20:17:37] Starting Task: Encoding Pass
+[20:17:37] work: skipping crop/scale filter
+[20:17:37] job configuration:
+[20:17:37]  * source
+[20:17:37]    + /home/ryskowalski/Documents/My Disc.iso
+[20:17:37]    + title 1, chapter(s) 1 to 1
+[20:17:37]  * destination
+[20:17:37]    + /home/ryskowalski/Videos/slub.mp4
+[20:17:37]    + container: MPEG-4 (libavformat)
+[20:17:37]      + align initial A/V stream timestamps
+[20:17:37]  * video track
+[20:17:37]    + decoder: mpeg2video 8-bit (yuv420p)
+[20:17:37]      + bitrate 200 kbps
+[20:17:37]    + filters
+[20:17:37]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[20:17:37]      + Decomb (mode=39)
+[20:17:37]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[20:17:37]        + frame rate: 25.000 fps -> peak rate limited to 30.000 fps
+[20:17:37]      + Subtitle renderer ()
+[20:17:37]    + Output geometry
+[20:17:37]      + storage dimensions: 720 x 576
+[20:17:37]      + pixel aspect ratio: 16 : 15
+[20:17:37]      + display dimensions: 768 x 576
+[20:17:37]    + encoder: H.264 (libx264)
+[20:17:37]      + preset:  fast
+[20:17:37]      + profile: main
+[20:17:37]      + level:   4.0
+[20:17:37]      + quality: 22.00 (RF)
+[20:17:37]      + color profile: 5-5-5
+[20:17:37]      + color range: tv
+[20:17:37]      + chroma location: left
+[20:17:37]  * subtitle track 1, Unknown (VOBSUB) (track 2, id 0x2000bd, Picture) -> Render/Burn-in, Forced Only
+[20:17:37]  * audio track 1
+[20:17:37]    + name: Stereo
+[20:17:37]    + decoder: Unknown (LPCM, 2.0 ch, 1536 kbps) (track 1, id 0xa000bd)
+[20:17:37]      + bitrate: 1536 kbps, samplerate: 48000 Hz
+[20:17:37]    + mixdown: Stereo
+[20:17:37]    + encoder: AAC (libavcodec)
+[20:17:37]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[20:17:37] file is MPEG Program Stream
+[20:17:37] Probing 1 unknown stream
+[20:17:37]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:17:37] sync: expecting 2249 video frames
+[20:17:37] encx264: encoding at constant RF 22.000000
+[20:17:37] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=16/15
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x264 [info]: profile Main, level 4.0, 4:2:0, 8-bit
+[20:17:37] sync: first pts video is 0
+[20:17:37] sync: first pts audio 0xa000bd is 0
+[20:17:37] sync: first pts subtitle 0x2000bd is 0
+[20:17:41] 70.480003s: Film -> Video
+[20:17:43] reader: done. 4 scr changes
+[20:17:44] work: average encoding speed for job is 466.200836 fps
+[20:17:44] comb detect: heavy 921 | light 928 | uncombed 1212 | total 3061
+[20:17:44] decomb: deinterlaced 921 | blended 928 | unfiltered 1212 | total 3061
+[20:17:44] vfr: 3061 frames output, 0 dropped and 0 duped for CFR/PFR
+[20:17:44] vfr: lost time: 0 (0 frames)
+[20:17:44] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[20:17:44] stream: 34991 good frames, 0 errors (0%)
+[20:17:44] mpeg2video-decoder done: 3061 frames, 0 decoder errors
+[20:17:44] sync: got 3061 frames, 2249 expected
+[20:17:44] sync: framerate min 1.935 fps, max 25.000 fps, avg 24.903 fps
+x264 [info]: frame I:14    Avg QP:17.16  size: 33086
+x264 [info]: frame P:803   Avg QP:20.64  size:  7973
+x264 [info]: frame B:2244  Avg QP:23.11  size:  1568
+x264 [info]: consecutive B-frames:  0.8%  2.5%  5.8% 91.0%
+x264 [info]: mb I  I16..4: 45.7%  0.0% 54.3%
+x264 [info]: mb P  I16..4:  7.2%  0.0%  1.7%  P16..4: 45.8% 15.7%  8.0%  0.0%  0.0%    skip:21.5%
+x264 [info]: mb B  I16..4:  1.8%  0.0%  0.0%  B16..8: 18.2%  3.1%  0.4%  direct:11.2%  skip:65.3%  L0:42.1% L1:48.3% BI: 9.6%
+x264 [info]: coded y,uvDC,uvAC intra: 15.9% 67.1% 14.1% inter: 6.5% 24.5% 1.0%
+x264 [info]: i16 v,h,dc,p: 39% 23% 18% 20%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 27% 18% 25%  7%  4%  5%  4%  7%  3%
+x264 [info]: i8c dc,h,v,p: 49% 20% 23%  9%
+x264 [info]: Weighted P-Frames: Y:19.3% UV:15.6%
+x264 [info]: ref P L0: 65.0% 35.0%
+x264 [info]: ref B L0: 79.6% 20.4%
+x264 [info]: ref B L1: 94.6%  5.4%
+x264 [info]: kb/s:675.77
+[20:17:44] mux: track 0, 3061 frames, 10382295 bytes, 675.71 kbps, fifo 4096
+[20:17:44] mux: track 1, 3282 frames, 1377190 bytes, 89.63 kbps, fifo 4096
+[20:17:44] Finished work at: Sat Oct 11 20:17:44 2025
+
+[20:17:44] libhb: work result = 0

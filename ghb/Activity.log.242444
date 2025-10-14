@@ -1,0 +1,211 @@
+HandBrake 20250906052339-dddf75f75-makepkg (2025092401)
+OS: Arch Linux
+Kernel: Linux 6.17.1-arch1-1 (x86_64)
+CPU: 13th Gen Intel(R) Core(TM) i5-13600KF x 20
+Install Dir: /usr/bin
+Config Dir:  /home/ryskowalski/.config/ghb
+_______________________________
+
+[20:18:12] Compile-time hardening features are enabled
+[20:18:12] nvenc: version 13.0 is available
+[20:18:12] nvdec: is available
+[20:18:12] CUDA Version: 8.9
+[20:18:12] vcn: not available on this system
+[20:18:12] qsv: not available on this system
+[20:18:12] hb_init: starting libhb thread
+[20:18:12] hb_init: starting libhb thread
+[20:18:12] hb_init: starting libhb thread
+
+(fr.handbrake.ghb:242444): Gtk-WARNING **: 20:18:12.389: GtkGrid 0x555d105b3c80 (grid) reported min width 261 and natural width 260 in measure() with for_size=-1; natural size must be >= min size
+
+(fr.handbrake.ghb:242444): Gtk-CRITICAL **: 20:18:12.416: gtk_adjustment_configure: assertion 'lower + page_size <= upper' failed
+
+(fr.handbrake.ghb:242444): Gtk-WARNING **: 20:18:12.430: GtkGrid 0x555d105b3c80 (grid) reported min width 261 and natural width 260 in measure() with for_size=-1; natural size must be >= min size
+[20:18:17] gtkgui: Excluded extension jpg
+[20:18:17] gtkgui: Excluded extension png
+[20:18:17] gtkgui: Excluded extension srt
+[20:18:17] gtkgui: Excluded extension ssa
+[20:18:17] gtkgui: Excluded extension ass
+[20:18:17] gtkgui: Excluded extension txt
+[20:18:17] CPU: 13th Gen Intel(R) Core(TM) i5-13600KF
+[20:18:17]  - logical processor count: 20
+[20:18:17] Intel Quick Sync Video support: no
+[20:18:17] hb_scan: path=/home/ryskowalski/Documents/My Disc.iso, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/ryskowalski/Documents/My Disc.iso
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+[20:18:17] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[20:18:17] dvd: not a dvd - trying as a stream/file instead
+[20:18:17] file is MPEG Program Stream
+[20:18:17] Probing 1 unknown stream
+[20:18:17]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:18:17] Found the following streams
+[20:18:17]     Video Streams : 
+[20:18:17]       0xe0-0x0 type mpegvideo (0x2)
+[20:18:17]     Audio Streams : 
+[20:18:17]       0xdf-0x0 type MPEG2 (0x4)
+[20:18:17]       0xbd-0xa0 type DVD Subtitle (0x83)
+[20:18:17]     Subtitle Streams : 
+[20:18:17]       0xbd-0x20 type DVD Subtitle (0x0)
+[20:18:17]     Other Streams : 
+[20:18:17] stream id 0xdf (type 0x4 substream 0x0) audio 0xdf
+[20:18:17] stream id 0xbd (type 0x83 substream 0xa0) audio 0xa000bd
+[20:18:17] stream id 0xbd (type 0x0 substream 0x20) subtitle 0x2000bd
+[20:18:17] scan: decoding previews for title 1
+[20:18:17] file is MPEG Program Stream
+[20:18:17] Probing 1 unknown stream
+[20:18:17]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:18:17] scan: audio 0xa000bd: LPCM, rate=48000Hz, bitrate=1536000 Unknown (LPCM, 2.0 ch, 1536 kbps)
+[20:18:17] stream: 6 good frames, 0 errors (0%)
+[20:18:17] using bitstream PAR 16:15
+[20:18:17] scan: 10 previews, 720x576, 25.000 fps, autocrop = 0/0/0/0, aspect 4:3, PAR 16:15, color profile: 5-5-5, chroma location: left
+[20:18:17] scan: removing audio 0xdf because no bitrate found
+[20:18:17] libhb: scan thread found 1 valid title(s)
+
+(fr.handbrake.ghb:242444): Gtk-WARNING **: 20:18:17.913: GtkGrid 0x555d105b3c80 (grid) reported min width 261 and natural width 260 in measure() with for_size=-1; natural size must be >= min size
+[20:22:21] gtkgui: Excluded extension jpg
+[20:22:21] gtkgui: Excluded extension png
+[20:22:21] gtkgui: Excluded extension srt
+[20:22:21] gtkgui: Excluded extension ssa
+[20:22:21] gtkgui: Excluded extension ass
+[20:22:21] gtkgui: Excluded extension txt
+[20:22:21] CPU: 13th Gen Intel(R) Core(TM) i5-13600KF
+[20:22:21]  - logical processor count: 20
+[20:22:21] Intel Quick Sync Video support: no
+[20:22:21] hb_scan: path=/mnt/VIDEO_TS, title_index=0
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+[20:22:21] bd: not a bd - trying as a stream/file instead
+libdvdread: Could not open input: Permission denied
+libdvdread: Can't open /dev/loop0 for reading
+libdvdread: Device /dev/loop0 inaccessible, CSS authentication not available.
+libdvdnav: Can't read name block. Probably not a DVD-ROM device.
+libdvdread: Could not open input: Permission denied
+libdvdread: Can't open /dev/loop0 for reading
+libdvdread: Device /dev/loop0 inaccessible, CSS authentication not available.
+[20:22:21] scan: DVD has 1 title(s)
+[20:22:21] scan: scanning title 1
+[20:22:21] scan: duration is 01:46:59 (6419200 ms)
+[20:22:21] pgc_id: 1, pgn: 1: pgc: 0x7f7f700591a0
+[20:22:21] scan: checking audio 1
+[20:22:21] scan: id=0xc0, lang=Unknown (MPEG), 3cc=und ext=0
+[20:22:21] scan: title 1 has 12 chapters
+[20:22:21] scan: chap 1, 311400 ms
+[20:22:21] scan: chap 2, 163800 ms
+[20:22:21] scan: chap 3, 294000 ms
+[20:22:21] scan: chap 4, 519000 ms
+[20:22:21] scan: chap 5, 259800 ms
+[20:22:21] scan: chap 6, 270000 ms
+[20:22:21] scan: chap 7, 801000 ms
+[20:22:21] scan: chap 8, 602760 ms
+[20:22:21] scan: chap 9, 720600 ms
+[20:22:21] scan: chap 10, 768080 ms
+[20:22:21] scan: chap 11, 1253120 ms
+[20:22:21] scan: chap 12, 455640 ms
+[20:22:21] scan: aspect = 4:3
+[20:22:21] scan: decoding previews for title 1
+[20:22:21] scan: title angle(s) 1
+[20:22:21] dvdnav: Read Error, Error reading NAV packet.
+[20:22:21] Warning: Could not read data for preview 1, skipped
+[20:22:21] scan: Too few previews (0), trying harder
+[20:22:21] scan: decoding previews for title 1
+[20:22:21] scan: title angle(s) 1
+[20:22:21] libhb: scan thread found 0 valid title(s)
+[20:22:21] dvdnav: Read Error, Error reading NAV packet.
+[20:22:21] Last error repeated 9 times
+[20:22:21] hb_dict_to_job: Title 1 doesn't exist
+[20:22:21] hb_get_preview3: failed to unpack job
+[20:22:40] gtkgui: Excluded extension jpg
+[20:22:40] gtkgui: Excluded extension png
+[20:22:40] gtkgui: Excluded extension srt
+[20:22:40] gtkgui: Excluded extension ssa
+[20:22:40] gtkgui: Excluded extension ass
+[20:22:40] gtkgui: Excluded extension txt
+[20:22:40] CPU: 13th Gen Intel(R) Core(TM) i5-13600KF
+[20:22:40]  - logical processor count: 20
+[20:22:40] Intel Quick Sync Video support: no
+[20:22:40] hb_scan: path=/mnt/VIDEO_TS, title_index=0
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+[20:22:40] bd: not a bd - trying as a stream/file instead
+libdvdread: Could not open input: Permission denied
+libdvdread: Can't open /dev/loop0 for reading
+libdvdread: Device /dev/loop0 inaccessible, CSS authentication not available.
+libdvdnav: Can't read name block. Probably not a DVD-ROM device.
+libdvdread: Could not open input: Permission denied
+libdvdread: Can't open /dev/loop0 for reading
+libdvdread: Device /dev/loop0 inaccessible, CSS authentication not available.
+[20:22:40] scan: DVD has 1 title(s)
+[20:22:40] scan: scanning title 1
+[20:22:40] scan: duration is 01:46:59 (6419200 ms)
+[20:22:40] pgc_id: 1, pgn: 1: pgc: 0x7f7ee400c8f0
+[20:22:40] scan: checking audio 1
+[20:22:40] scan: id=0xc0, lang=Unknown (MPEG), 3cc=und ext=0
+[20:22:40] scan: title 1 has 12 chapters
+[20:22:40] scan: chap 1, 311400 ms
+[20:22:40] scan: chap 2, 163800 ms
+[20:22:40] scan: chap 3, 294000 ms
+[20:22:40] scan: chap 4, 519000 ms
+[20:22:40] scan: chap 5, 259800 ms
+[20:22:40] scan: chap 6, 270000 ms
+[20:22:40] scan: chap 7, 801000 ms
+[20:22:40] scan: chap 8, 602760 ms
+[20:22:40] scan: chap 9, 720600 ms
+[20:22:40] scan: chap 10, 768080 ms
+[20:22:40] scan: chap 11, 1253120 ms
+[20:22:40] scan: chap 12, 455640 ms
+[20:22:40] scan: aspect = 4:3
+[20:22:40] scan: decoding previews for title 1
+[20:22:40] scan: title angle(s) 1
+[20:22:40] dvdnav: Read Error, Error reading NAV packet.
+[20:22:40] Warning: Could not read data for preview 1, skipped
+[20:22:40] scan: Too few previews (0), trying harder
+[20:22:40] scan: decoding previews for title 1
+[20:22:40] scan: title angle(s) 1
+[20:22:40] libhb: scan thread found 0 valid title(s)
+[20:22:47] gtkgui: Excluded extension jpg
+[20:22:47] gtkgui: Excluded extension png
+[20:22:47] gtkgui: Excluded extension srt
+[20:22:47] gtkgui: Excluded extension ssa
+[20:22:47] gtkgui: Excluded extension ass
+[20:22:47] gtkgui: Excluded extension txt
+[20:22:47] CPU: 13th Gen Intel(R) Core(TM) i5-13600KF
+[20:22:47]  - logical processor count: 20
+[20:22:47] Intel Quick Sync Video support: no
+[20:22:47] hb_scan: path=/home/ryskowalski/Documents/My Disc.iso, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/ryskowalski/Documents/My Disc.iso
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+[20:22:47] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[20:22:47] dvd: not a dvd - trying as a stream/file instead
+[20:22:47] file is MPEG Program Stream
+[20:22:47] Probing 1 unknown stream
+[20:22:47]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:22:47] Found the following streams
+[20:22:47]     Video Streams : 
+[20:22:47]       0xe0-0x0 type mpegvideo (0x2)
+[20:22:47]     Audio Streams : 
+[20:22:47]       0xdf-0x0 type MPEG2 (0x4)
+[20:22:47]       0xbd-0xa0 type DVD Subtitle (0x83)
+[20:22:47]     Subtitle Streams : 
+[20:22:47]       0xbd-0x20 type DVD Subtitle (0x0)
+[20:22:47]     Other Streams : 
+[20:22:47] stream id 0xdf (type 0x4 substream 0x0) audio 0xdf
+[20:22:47] stream id 0xbd (type 0x83 substream 0xa0) audio 0xa000bd
+[20:22:47] stream id 0xbd (type 0x0 substream 0x20) subtitle 0x2000bd
+[20:22:47] scan: decoding previews for title 1
+[20:22:47] file is MPEG Program Stream
+[20:22:47] Probing 1 unknown stream
+[20:22:47]     Probe: Found stream mpegvideo. stream id 0xe0-0x0
+[20:22:47] scan: audio 0xa000bd: LPCM, rate=48000Hz, bitrate=1536000 Unknown (LPCM, 2.0 ch, 1536 kbps)
+[20:22:47] stream: 6 good frames, 0 errors (0%)
+[20:22:47] using bitstream PAR 16:15
+[20:22:47] scan: 10 previews, 720x576, 25.000 fps, autocrop = 0/0/0/0, aspect 4:3, PAR 16:15, color profile: 5-5-5, chroma location: left
+[20:22:47] scan: removing audio 0xdf because no bitrate found
+[20:22:47] libhb: scan thread found 1 valid title(s)
