@@ -1,0 +1,25 @@
+[
+    {
+        "created": "2025-10-17T14:16:07.010Z",
+        "items": [
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "encoder": "Lavf62.3.100",
+                    "major_brand": "isom",
+                    "minor_version": "512"
+                },
+                "url": "file:///home/ryskowalski/output.mp4",
+                "uuid": "f3407f93-3e99-490f-bb54-4cd5ce205a1b"
+            }
+        ],
+        "nowplaying": "f3407f93-3e99-490f-bb54-4cd5ce205a1b",
+        "repeat": false,
+        "shuffle": false,
+        "title": "Quick Playlist",
+        "uuid": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "currentPlaylist": "00000000-0000-0000-0000-000000000000"
+    }
+]

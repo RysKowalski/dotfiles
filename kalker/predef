@@ -1,0 +1,4 @@
+alog(a,b)=log(b,a);
+nwd(a, b)=gcd(a, b);
+nwdd(a, b, c)=gcd(a, b, c)
+

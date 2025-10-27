@@ -55,3 +55,4 @@ font-family = "Unifont"
 font-size = 10
 #background = #1e1e1e
 background = #181818
+confirm-close-surface = false

@@ -21,6 +21,7 @@
   ],
   //
   "modules-right": [
+    "custom/mpd",
     "privacy",
     "group/updates",
     "network",
