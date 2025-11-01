@@ -11,8 +11,8 @@
   <setting name="menubar-shown" type="System.Boolean">False</setting>
   <setting name="statusbar-shown" type="System.Boolean">True</setting>
   <setting name="toolbox-shown" type="System.Boolean">True</setting>
-  <setting name="last-dialog-directory" type="System.String">file:///home/ryskowalski/projects/school-stuff/zadanie_html/assets</setting>
-  <setting name="last-selected-tool" type="System.String">MoveSelectedTool</setting>
+  <setting name="last-dialog-directory" type="System.String">file:///home/ryskowalski/Downloads</setting>
+  <setting name="last-selected-tool" type="System.String">PencilTool</setting>
   <setting name="primary-color" type="System.String">5CFFD800</setting>
   <setting name="secondary-color" type="System.String">FFFFFFFF</setting>
   <setting name="recently-used-colors" type="System.String">5CFFD800,FF0026FF,FF000000,FFFFD800,FFB6FF00,FFFFFFFF,FFFFD800,FFFF6A00,FFFF0000,FF4CFF00</setting>
@@ -42,8 +42,8 @@
   <setting name="roundedrectangletool-shape-type" type="System.Int32">3</setting>
   <setting name="roundedrectangletool-dash-pattern" type="System.String">-</setting>
   <setting name="roundedrectangletool-radius" type="System.Int32">20</setting>
-  <setting name="jpg-quality" type="System.Int32">100</setting>
-  <setting name="default-image-type" type="System.String">webp</setting>
+  <setting name="jpg-quality" type="System.Int32">80</setting>
+  <setting name="default-image-type" type="System.String">jpg</setting>
   <setting name="erasertool-antialias" type="System.Int32">0</setting>
   <setting name="eraser-erase-type" type="System.Int32">0</setting>
   <setting name="color-picker-tool-selection" type="System.Int32">0</setting>
