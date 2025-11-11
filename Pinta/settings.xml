@@ -12,10 +12,10 @@
   <setting name="statusbar-shown" type="System.Boolean">True</setting>
   <setting name="toolbox-shown" type="System.Boolean">True</setting>
   <setting name="last-dialog-directory" type="System.String">file:///home/ryskowalski/.config/hypr/scripts</setting>
-  <setting name="last-selected-tool" type="System.String">PencilTool</setting>
-  <setting name="primary-color" type="System.String">FF000000</setting>
+  <setting name="last-selected-tool" type="System.String">RectangleSelectTool</setting>
+  <setting name="primary-color" type="System.String">FF4CFF00</setting>
   <setting name="secondary-color" type="System.String">FFFFFFFF</setting>
-  <setting name="recently-used-colors" type="System.String">FF000000,5CFFD800,FF0026FF,FFFFD800,FFB6FF00,FFFFFFFF,FFFFD800,FFFF6A00,FFFF0000,FF4CFF00</setting>
+  <setting name="recently-used-colors" type="System.String">FF4CFF00,FF000000,5CFFD800,FF0026FF,FFFFD800,FFB6FF00,FFFFFFFF,FFFFD800,FFFF6A00,FFFF0000</setting>
   <setting name="paintbrushtool-antialias" type="System.Int32">0</setting>
   <setting name="paintbrushtool-brush-width" type="System.Int32">20</setting>
   <setting name="paint-brush-brush" type="System.Int32">0</setting>
