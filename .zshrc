@@ -168,6 +168,9 @@ alias sound='ffplay -nodisp -autoexit'
 alias img='qimgv'
 alias db='termdbms -p'
 alias grep='grep --color=auto'
+alias gc='git commit -a'
+alias gp='git push'
+alias gu='git pull'
 
 # ===============================
 # Development and Programming
