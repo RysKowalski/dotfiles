@@ -1,0 +1,17 @@
+{"_id":"baseTheme","value":"nordic"}
+{"_id":"bounds","value":{"x":2560,"y":26,"width":840,"height":1024,"maximized":false,"fullScreen":false}}
+{"_id":"defaultQuality","value":"1440"}
+{"_id":"externalPlayer","value":"mpv"}
+{"_id":"hidePopularVideos","value":true}
+{"_id":"hideTrendingVideos","value":true}
+{"_id":"mainColor","value":"Red"}
+{"_id":"quickBookmarkTargetPlaylistId","value":"favorites"}
+{"_id":"secColor","value":"Blue"}
+{"_id":"sponsorBlockFiller","value":{"color":"Purple","skip":"showInSeekBar"}}
+{"_id":"sponsorBlockIntro","value":{"color":"Cyan","skip":"showInSeekBar"}}
+{"_id":"sponsorBlockMusicOffTopic","value":{"color":"Orange","skip":"showInSeekBar"}}
+{"_id":"sponsorBlockOutro","value":{"color":"Blue","skip":"showInSeekBar"}}
+{"_id":"sponsorBlockRecap","value":{"color":"Indigo","skip":"showInSeekBar"}}
+{"_id":"sponsorBlockSelfPromo","value":{"color":"Yellow","skip":"autoSkip"}}
+{"_id":"useSponsorBlock","value":true}
+{"_id":"videoPlaybackRateInterval","value":"0.1"}
