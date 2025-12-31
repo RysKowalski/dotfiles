@@ -1,0 +1,28 @@
+##############################
+### WINDOWS AND WORKSPACES ###
+##############################
+
+workspace = 1, monitor:DP-1, persistent:true
+workspace = 2, monitor:DP-2, persistent:true
+
+# Example special workspace (scratchpad)
+bind = $mainMod, S, togglespecialworkspace, magic
+bind = $mainMod SHIFT, S, movetoworkspace, special:magic
+
+# See https://wiki.hyprland.org/Configuring/Window-Rules/ for more
+# See https://wiki.hyprland.org/Configuring/Workspace-Rules/ for workspace rules
+
+# Example windowrule
+# windowrule = float,class:^(kitty)$,title:^(kitty)$
+
+# Ignore maximize requests from apps. You'll probably like this.
+windowrule = suppressevent maximize, class:.*
+
+# Fix some dragging issues with XWayland
+windowrule = nofocus,class:^$,title:^$,xwayland:1,floating:1,fullscreen:0,pinned:0
+
+windowrule = bordersize 1, floating:1
+
+windowrulev2 = fullscreen,class:^(.*)$,title:^(BoplBattle)$
+windowrulev2 = fullscreen,class:.*steam_app.*$,title:^(.*)
+

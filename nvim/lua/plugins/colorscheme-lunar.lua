@@ -14,6 +14,7 @@ return {
       hl(0, "PreProc", { fg = "#569CD6" })
       hl(0, "@module", { fg = "#4EC9B0" })
       hl(0, "Comment", { fg = "#6A9955" })
+      hl(0, "Operator", { fg = "#5FFF87" })
     end,
   },
 }

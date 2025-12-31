@@ -1,2 +1,3 @@
-2025/12/29-18:16:59.656 137d0 Creating DB /home/ryskowalski/.config/FreeTube/shared_proto_db/metadata since it was missing.
-2025/12/29-18:16:59.657 137d0 Reusing MANIFEST /home/ryskowalski/.config/FreeTube/shared_proto_db/metadata/MANIFEST-000001
+2025/12/31-15:29:14.221 64ff Reusing MANIFEST /home/ryskowalski/.config/FreeTube/shared_proto_db/metadata/MANIFEST-000001
+2025/12/31-15:29:14.221 64ff Recovering log #3
+2025/12/31-15:29:14.221 64ff Reusing old log /home/ryskowalski/.config/FreeTube/shared_proto_db/metadata/000003.log 
