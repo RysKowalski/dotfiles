@@ -1,0 +1,109 @@
+# yaml-language-server: $schema=./schemas/WayVes_config_schema.json
+#
+# audios:
+#   - name: audio1
+#     # pipewire-settings:
+#     #   sample-rate: 11000
+#     #   channels: 2
+#     #   sample-size: 1024
+#     #   fragment-size: 4096
+#     #   capture-mic: false
+#     #   audio-format: F32_LE
+#
+#     shaders:
+#       - name: linear
+#         margin-bottom: 30
+#         margin-left: 30
+#         anchor-left: true
+#         anchor-bottom: true
+#         layer: Bottom
+#         window-width: 300
+#         window-height: 200
+#
+# - name: angular
+#   margin-bottom: 30
+#   margin-right: 30
+#   anchor-right: true
+#   anchor-bottom: true
+#   layer: Bottom
+#   window-width: 300
+#   window-height: 300
+
+#Uncomment to enable the NCS Visualiser
+
+# - name: ncs
+#   atomic-textures: 1
+#   margin-top: 12
+#   anchor-left: true
+#   anchor-top: true
+#   layer: Overlay
+#   window-width: 380
+#   window-height: 380
+#   post-processing:
+#     - name: glow
+#       passes: 1
+#
+# #Uncomment to enable the Chain Visualiser
+# - name: chain
+#   margin-right: 11
+#   margin-top: 5
+#   anchor-right: true
+#   anchor-top: true
+#   layer: Top
+#
+#   window-width: 880
+#   window-height: 50
+#     audio-overrides:
+#     min-frequency: 20
+#     max-frequency: 600
+#     smooth-audio: false
+#     strict-frequency-bounds: true
+#     paintables:
+#     - margin-left: 11
+#       margin-top: 5
+#       anchor-left: true
+#       anchor-top: true
+#       layer: Top
+#       window-width: 880
+#       window-height: 50
+#
+
+audios:
+  - name: "default"
+    pipewire-settings:
+      sample-rate: 48000
+      channels: 2
+      fft-scale: 10.2
+      fft-cutOff: 0.3
+      apply-fft: true
+      sample-size: 1024
+      fragment-size: 1024
+      capture-mic: false
+      target-object: ""
+      audio-format: ""
+    audio-overrides:
+      channels-map:
+        left: 0
+        right: 1
+      min-frequency: 0
+      max-frequency: 0
+      smooth-audio: true
+      strict-frequency-bounds: false
+      smooth-settings:
+        round-formula: 0
+        sample-mode: 0
+        sample-hybrid-weight: 0.65
+        sample-scale: 8
+        sample-range: 0.9
+        smooth-factor: 0.025
+        adjacent-sample-nums: 0
+      gravity-settings:
+        gravity-step: 4.2
+        average-frames: 5
+    shaders:
+      - name: "example"
+        layer: 1
+        window-width: 800
+        window-height: 400
+        audio-overrides: {}
+        post-processing: []

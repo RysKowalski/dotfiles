@@ -1,3 +1,5 @@
+MenuBar=Disabled
+
 [General]
 Version=202
 ViewPropsTimestamp=2025,7,17,19,1,15.381
@@ -9,5 +11,11 @@ Places Icons Static Size=22
 [MainWindow]
 MenuBar=Disabled
 
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,glycin-heif,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,glycin-image-rs,jpegthumbnail,glycin-jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,gsf-office,opendocumentthumbnail,glycin-svg,svgthumbnail,webp-pixbuf
+
 [Search]
 Location=Everywhere
+
+[UiSettings]
+ColorScheme=KvGnomeDark
