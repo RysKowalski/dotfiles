@@ -43,7 +43,7 @@
         "allow_tweaks": false,
         "auto_name": true,
         "auto_name_template": "{source}",
-        "default_source": "/home/ryskowalski/Documents/My Disc.iso",
+        "default_source": "/home/ryskowalski/Videos/owshit.mp4",
         "destination_dir": "/home/ryskowalski/Videos",
         "hbfd": false,
         "hbfd_feature": false,

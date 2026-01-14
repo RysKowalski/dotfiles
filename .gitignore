@@ -23,3 +23,11 @@ chromium/*
 *Cache*
 *CACHE*
 UNDERTALE/
+WayVes/*
+
+FreeTube/*
+!FreeTube/history.db
+!FreeTube/playlists.db
+!FreeTube/settings.db
+!FreeTube/Preferences
+!FreeTube/profiles.db
