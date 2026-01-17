@@ -40,7 +40,7 @@
     "format-ethernet": "󰈀 {bandwidthDownBits:>} 󰶡 {bandwidthUpBits:>} 󰶣",
     "tooltip-format-ethernet": "{ifname}: {ipaddr}/{cidr}",
     "format-disconnected": " Disconnected",
-    "on-click": "ghostty",
+    "on-click": "kitty",
     "interval": 2
   },
   "privacy": {
@@ -128,21 +128,21 @@
     "format-critical": " {temperatureC}°C",
     "format": " {temperatureC}°C",
     "tooltip-format": "  󰍽: s-tui\n {temperatureC}° Celsius\n{temperatureF}° Fahrenheit\n{temperatureK}° Kelvin",
-    "on-click": "ghostty -e s-tui"
+    "on-click": "kitty -e s-tui"
   },
   //
   "disk": {
     "interval": 600,
     "format": "󰋊 {percentage_used}%",
     "path": "/",
-    "on-click": "ghostty -e dua i /",
+    "on-click": "kitty -e dua i /",
     "tooltip-format": "    󰍽: dua\nTotal: {total}\n Used: {used} ({percentage_used}%)\n Free: {free} ({percentage_free}%)"
   },
   //
   "memory": {
     "interval": 5,
     "format": " {}%",
-    "on-click": "ghostty -e btm",
+    "on-click": "kitty -e btm",
     "states": {
       "warning": 70,
       "critical": 90
@@ -254,7 +254,7 @@
     "tooltip-format-connected": "L󰍽: bluetui\nR󰍽: bluetoothctl power on/off\nController: {controller_alias}\t{controller_address}\nConnected devices: {num_connections}\nDevice---------------Address------------Battery\n{device_enumerate}",
     "tooltip-format-enumerate-connected": "{device_alias:<20} {device_address:<18}",
     "tooltip-format-enumerate-connected-battery": "{device_alias:<20.20} {device_address:<18.18} {icon} {device_battery_percentage}%",
-    "on-click": "ghostty -e bluetui",
+    "on-click": "kitty -e bluetui",
     "on-click-right": "~/.config/sway/scripts/bluetooth_toggle.sh"
   },
   //
@@ -266,7 +266,7 @@
   "clock": {
     "format": "󰅐 {:%H:%M:%S %D}",
     "interval": 1,
-    "on-click": "ghostty -e calcurse",
+    "on-click": "kitty -e calcurse",
     // Uncomment to enable right-click calcurse-caldav sync (you need to set it up in calcurse config)
     //"on-click-right": "notify-send \"Running calcurse-caldav...\" \"$(calcurse-caldav)\"",
     "tooltip-format": " {:%A %m/%d}\n\n<tt><small>{calendar}</small></tt>",

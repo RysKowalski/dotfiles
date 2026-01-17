@@ -1,6 +1,6 @@
 {
     "DesktopAudioDevice1": {
-        "prev_ver": 520093700,
+        "prev_ver": 536870914,
         "name": "Desktop Audio",
         "uuid": "96e3db49-dc3a-46ab-9a8a-74275edae8cf",
         "id": "pulse_output_capture",
@@ -31,7 +31,7 @@
         "private_settings": {}
     },
     "AuxAudioDevice1": {
-        "prev_ver": 520093700,
+        "prev_ver": 536870914,
         "name": "Mic/Aux",
         "uuid": "d10a8d7d-00ca-4fac-8725-f94e491290cc",
         "id": "pulse_input_capture",
@@ -71,7 +71,7 @@
     "name": "Untitled",
     "sources": [
         {
-            "prev_ver": 520093700,
+            "prev_ver": 536870914,
             "name": "Scene",
             "uuid": "903418c2-fa4c-4e50-a6ad-199b99e91247",
             "id": "scene",
@@ -156,16 +156,17 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
-            "prev_ver": 520093700,
+            "prev_ver": 536870914,
             "name": "Screen Capture (PipeWire)",
             "uuid": "61945e9b-9a49-400c-9688-6ea3dd8d902f",
             "id": "pipewire-screen-capture-source",
             "versioned_id": "pipewire-screen-capture-source",
             "settings": {
-                "RestoreToken": ""
+                "RestoreToken": "240ab565-b1b5-4490-88b7-9317d36084d9"
             },
             "mixers": 0,
             "sync": 0,
@@ -211,6 +212,7 @@
     ],
     "transitions": [],
     "saved_projectors": [],
+    "canvases": [],
     "current_transition": "Fade",
     "transition_duration": 300,
     "preview_locked": false,

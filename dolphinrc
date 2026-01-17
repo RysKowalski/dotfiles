@@ -1,6 +1,7 @@
 MenuBar=Disabled
 
 [General]
+UseTabForSwitchingSplitView=true
 Version=202
 ViewPropsTimestamp=2025,7,17,19,1,15.381
 
@@ -18,4 +19,4 @@ Plugins=appimagethumbnail,audiothumbnail,glycin-heif,comicbookthumbnail,cursorth
 Location=Everywhere
 
 [UiSettings]
-ColorScheme=KvGnomeDark
+ColorScheme=BreezeDark

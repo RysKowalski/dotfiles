@@ -24,6 +24,7 @@ chromium/*
 *CACHE*
 UNDERTALE/
 WayVes/*
+Google/*
 
 FreeTube/*
 !FreeTube/history.db

@@ -132,7 +132,7 @@
     #  * urgency_ascending: sort by urgency (low then normal then critical)
     #  * urgency_descending: sort by urgency (critical then normal then low)
     #  * update: sort by update (most recent always at the top)
-    sort = yes
+    sort = update
 
     # Don't remove messages, if the user is idle (no mouse or keyboard input)
     # for longer than idle_threshold seconds.
@@ -270,7 +270,7 @@
     # corners.
     # The radius will be automatically lowered if it exceeds half of the
     # notification height to avoid clipping text and/or icons.
-    corner_radius = 10
+    corner_radius = 0
 
     # Define which corners to round when drawing the window. If the corner radius
     # is set to 0 this option will be ignored.
@@ -342,7 +342,7 @@
     # Otherwise the "#" and following would be interpreted as a comment.
     background = "#222222"
     foreground = "#ffffff"
-	highlight = "#722ae6, #e4b5cb"
+    highlight = "#722ae6, #e4b5cb"
     timeout = 20
     # Icon for notifications with low urgency
     #default_icon = dialog-information
@@ -350,22 +350,22 @@
 [urgency_normal]
     background = "#222222"
     foreground = "#ffffff"
-	frame_color = "#5e5086"
-	highlight = "#722ae6, #e4b5cb"
+    frame_color = "#999999"
+    highlight = "#722ae6, #e4b5cb"
     timeout = 20
     override_pause_level = 30
     # Icon for notifications with normal urgency
-    default_icon = dialog-information
+    # default_icon = dialog-information
 
 [urgency_critical]
     background = "#222222"
     foreground = "#ffffff"
     frame_color = "#d54e53"
-	highlight = "#d54e53, #f0f0f0"
+    highlight = "#d54e53, #f0f0f0"
     timeout = 0
     override_pause_level = 60
     # Icon for notifications with critical urgency
-    default_icon = dialog-warning
+    # default_icon = dialog-warning
 
 # Every section that isn't one of the above is interpreted as a rules to
 # override settings for certain messages.
