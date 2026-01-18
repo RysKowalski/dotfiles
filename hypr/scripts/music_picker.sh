@@ -1,3 +1,8 @@
-# file="$(mpc listall -f "[[%artist% - ]%title%]|[%file%]" | dmenu -i -l 50)" || exit 0
-file="$(mpc listall | dmenu -i -l 50)" || exit 0
-notify-send "Playing $file" && mpc insert "$file" && mpc next >/dev/null
+#!/bin/bash
+mapfile -t paths < <(mpc listall)
+titlesRaw="$(mpc listall -f "[[%artist% - ]%title%]|[%file%]")"
+mapfile -t titles < <(echo "$titlesRaw")
+
+index="$(echo "$titlesRaw" | fuzzel --dmenu --width 200 -l 50 --index)" || exit 0
+
+notify-send "Playing: ${titles[$index]}" && mpc insert "${paths[$index]}" && mpc next >/dev/null

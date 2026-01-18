@@ -3,7 +3,6 @@
   "layer": "top",
   "position": "top", // Waybar position (top|bottom|left|right)
   "modules-left": [
-    "custom/launcher",
     "hyprland/workspaces",
     "hyprland/window"
   ],
@@ -141,7 +140,7 @@
   //
   "memory": {
     "interval": 5,
-    "format": " {}%",
+    "format": " {used}G",
     "on-click": "kitty -e btm",
     "states": {
       "warning": 70,
