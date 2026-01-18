@@ -51,7 +51,7 @@ nord15 #b48ead - (180,142,173)
 #waybar {
   color: #eceff4;
   background-color: #1C1C23;
-  background-color: rgba(29, 29, 35, 0);
+  /* background-color: rgba(29, 29, 35, 0); */
   /* background-color: #00FF00; */
   font-family: JetBrainsMonoNerdFont;
   font-size: 13px;
