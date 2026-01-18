@@ -4,6 +4,7 @@
   "position": "top", // Waybar position (top|bottom|left|right)
   "modules-left": [
     "hyprland/workspaces",
+    "hyprland/submap",
     "hyprland/window"
   ],
   //
@@ -380,5 +381,11 @@
     "exec": "~/.config/waybar/scripts/mpd-title.sh",
     "interval": 2,
     "return-type": "json"
+  },
+  //
+  "hyprland/submap": {
+    "format": "{}",
+    "max-length": 8,
+    "tooltip": false
   }
 }

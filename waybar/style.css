@@ -244,3 +244,19 @@ tooltip label {
   padding-left: 5px;
   padding-right: 5px;
 }
+
+#submap {
+  margin-left: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#submap.music {
+  background-color: #9DCD6A;
+  color: black;
+}
+
+#submap.power {
+  background-color: #FF0000;
+  color: white
+}
