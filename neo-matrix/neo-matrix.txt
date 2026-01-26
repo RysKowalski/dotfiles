@@ -1,0 +1,25 @@
+# neo color configuration file
+# each line defines one color entry
+# format:
+#   index            -> use terminal default for that color
+#   index,r,g,b      -> override color with ncurses RGB (0–1000)
+
+neo_color_version 1        # color file format version
+
+0,63,63,63    # color 0  - background (custom: #101010)
+1             # color 1  - green (primary matrix green)
+2             # color 2  - green variant 2
+3             # color 3  - green variant 3
+4             # color 4  - gold
+5             # color 5  - pink variant 2
+6             # color 6  - red
+7             # color 7  - blue
+8             # color 8  - cyan
+9             # color 9  - purple
+10            # color 10 - gray
+11            # color 11 - rainbow (multi-color effect)
+12            # color 12 - yellow
+13            # color 13 - orange
+14            # color 14 - pink
+15            # color 15 - vaporwave
+
