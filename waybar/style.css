@@ -1,33 +1,3 @@
-/* =============================================================================
- *
- * Waybar configuration
- *
- * Configuration reference: https://github.com/Alexays/Waybar/wiki/Configuration
- *
- * =========================================================================== */
-
-/*
-Polar Night (dark grays)
-nord0  #2e3440 - (46,52,64)
-nord1  #3b4252 - (59,66,82)
-nord2  #434c5e - (67,76,94)
-nord3  #4c566a - (76,86,106)
-Snow Storm (bright grays)
-nord4  #d8dee9 - (216,222,233)
-nord5  #e5e9f0 - (229,233,240)
-nord6  #eceff4 - (236,239,244)
-Frost (bluish colors)
-nord7  #8fbcbb - (143,188,187)
-nord8  #88c0d0 - (136,192,208)
-nord9  #81a1c1 - (129,161,193)
-nord10 #5e81ac - (94,129,172)
-Aurora (bright accent colors)
-nord11 #bf616a - (191,97,106)
-nord12 #d08770 - (208,135,112)
-nord13 #ebcb8b - (235,203,139)
-nord14 #a3be8c - (163,190,140)
-nord15 #b48ead - (180,142,173)
-*/
 
 /* -----------------------------------------------------------------------------
  * Base styles
@@ -73,13 +43,13 @@ tooltip label {
   font-size: 13px;
 }
 
-/* -----------------------------------------------------------------------------
- * Module styles
- * -------------------------------------------------------------------------- */
 
-/* Common module settings*/
-#window,
-#network,
+#network {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 1px;
+  background-color: @elembg;
+}
 #privacy,
 #custom-updates,
 #custom-pacman,
@@ -88,13 +58,23 @@ tooltip label {
 #temperature,
 #disk,
 #memory,
-#wireplumber,
+#wireplumber {
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: @elembg;
+  margin-left: 1px;
+  margin-right: 1px;
+}
 #battery,
 #idle_inhibitor,
 #backlight,
 #bluetooth,
 #tray,
-#clock,
+#clock {
+  background-color: @elembg;
+  padding-left: 5px;
+  padding-right: 5px;
+}
 
 
 #custom-settings,
@@ -143,7 +123,6 @@ tooltip label {
 
 #custom-launcher,
 #custom-power {
-  padding-right: 1.1rem;
 }
 
 
@@ -157,6 +136,8 @@ tooltip label {
 
 #window {
   border-style: hidden;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 #privacy {
@@ -259,4 +240,25 @@ tooltip label {
 #submap.power {
   background-color: #FF0000;
   color: white
+}
+
+#custom-weather {
+  margin-left: 1px;
+  background-color: @elembg;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#custom-weather:hover {
+  background-color: @hoverelembg;
+}
+
+#mpd {
+  background-color: @elembg;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#mpd:hover {
+  background-color: @hoverelembg;
 }

@@ -1,0 +1,27 @@
+# Font
+font = monospace
+font-size = 12
+
+# Layout
+width = 60%
+height = 50%
+horizontal = true
+num-results = 30
+columns = 3
+
+# Spacing
+padding-top = 8
+padding-bottom = 8
+padding-left = 12
+padding-right = 12
+result-spacing = 6
+
+# Behavior
+require-match = false
+prompt-text = "Run: "
+
+# Appearance
+background-color = #1e1e2eff
+text-color = #cdd6f4ff
+selection-background = #89b4faff
+selection-color = #1e1e2eff

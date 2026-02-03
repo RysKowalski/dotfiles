@@ -1,0 +1,40 @@
+configuration {
+    modi: "drun";
+    show-icons: true;
+    drun-display-format: "{name}";
+}
+
+window {
+    width: 60%;
+    height: 55%;
+    padding: 10px;
+}
+
+mainbox {
+    children: [ inputbar, listview ];
+}
+
+inputbar {
+    padding: 6px;
+}
+
+listview {
+    columns: 4;
+    lines: 5;
+    fixed-height: true;
+    fixed-columns: true;
+    spacing: 6px;
+}
+
+element {
+    padding: 6px;
+    orientation: vertical;
+}
+
+element-icon {
+    size: 32px;
+}
+
+element-text {
+    horizontal-align: 0.5;
+}
