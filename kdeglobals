@@ -20,3 +20,7 @@ View Style=DetailTree
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
+
+[General]
+TerminalApplication=kitty
+TerminalService=kitty.desktop

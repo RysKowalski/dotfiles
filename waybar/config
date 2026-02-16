@@ -8,12 +8,6 @@
     "hyprland/window"
   ],
   //
-  "custom/launcher": {
-    "format": "<span size='x-large'></span>",
-    "on-click": "exec fuzzel",
-    "tooltip": false
-  },
-  //
   "modules-center": [
     "clock",
     "group/resources",
@@ -22,7 +16,6 @@
   //
   "modules-right": [
     "mpd",
-    // "custom/mpd",
     "custom/weather",
     "privacy",
     "network",
@@ -36,14 +29,15 @@
   //
   "network": {
     "format-disabled": " Disabled",
-    "format-wifi": " {bandwidthDownBits:>} 󰶡 {bandwidthUpBits:>} 󰶣",
+    "format-wifi": " {bandwidthDownBits:>}󰶡{bandwidthUpBits:>}󰶣",
     "tooltip-format-wifi": "ESSID: {essid}",
-    "format-ethernet": "󰈀 {bandwidthDownBits:>} 󰶡 {bandwidthUpBits:>} 󰶣",
+    "format-ethernet": "󰈀 {bandwidthDownBits:>} 󰶡{bandwidthUpBits:>} 󰶣",
     "tooltip-format-ethernet": "{ifname}: {ipaddr}/{cidr}",
     "format-disconnected": " Disconnected",
     "on-click": "kitty",
-    "interval": 2
+    "interval": 5
   },
+  //
   "privacy": {
     "icon-spacing": 4,
     "icon-size": 18,
@@ -151,38 +145,6 @@
     "on-click": "footclient -T waybar_battop -e battop"
   },
   //
-  "group/settings": {
-    "orientation": "inherit",
-    "drawer": {
-      "transition-duration": 500,
-      "children-class": "settings-drawer",
-      "transition-left-to-right": true,
-      "click-to-reveal": true
-    },
-    "modules": [
-      "custom/settings",
-      "idle_inhibitor",
-      "backlight",
-      "bluetooth",
-      "tray"
-    ]
-  },
-  //
-  "custom/settings": {
-    "format": "",
-    "tooltip-format": "Settings"
-  },
-  //
-  "idle_inhibitor": {
-    "format": "{icon}",
-    "format-icons": {
-      "activated": " ",
-      "deactivated": " "
-    },
-    "tooltip-format-activated": "Idle Inhibitor Activated",
-    "tooltip-format-deactivated": "Idle Inhibitor Deactivated"
-  },
-  //
   "backlight": {
     "format": "{icon} {percent}%",
     "format-icons": [
@@ -203,8 +165,8 @@
   //
   "bluetooth": {
     "format": "󰂯 {status}:{num_connections}",
-    "format-on": "󰂯",
-    "format-off": "󰂲",
+    "format-on": "",
+    "format-off": "",
     "format-disabled": "", // an empty format will hide the module
     "format-icons": [
       "󰤾",
@@ -259,35 +221,33 @@
     "all-outputs": false,
     "format": "{icon}",
     "format-icons": {
-      "1": " 1 ",
-      "2": " 2 ",
-      "3": " 3 ",
-      "4": " 4 ",
-      "5": " 5 ",
-      "6": " 6 ",
-      "7": " 7 ",
-      "8": " 8 ",
-      "9": " 9 ",
-      "10": " 10 ",
-      "11": " 1 ",
-      "12": " 2 ",
-      "13": " 3 ",
-      "14": " 4 ",
-      "15": " 5 ",
-      "16": " 6 ",
-      "17": " 7 ",
-      "18": " 8 ",
-      "19": " 9 ",
-      "20": " 10 "
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10",
+      "11": "1",
+      "12": "2",
+      "13": "3",
+      "14": "4",
+      "15": "5",
+      "16": "6",
+      "17": "7",
+      "18": "8",
+      "19": "9",
+      "20": "10"
     },
     "on-click": "hyprctl dispatch workspace {name}"
   },
   //
-  //
   "hyprland/window": {
     "format": "{title}"
   },
-  //
   //
   "custom/mpd": {
     "format": "{}",
@@ -331,6 +291,7 @@
       "playing": ""
     },
     "tooltip-format": "MPD (connected)",
-    "tooltip-format-disconnected": "MPD (disconnected)"
+    "tooltip-format-disconnected": "MPD (disconnected)",
+    "on-click": "kitty -e rmpc"
   }
 }

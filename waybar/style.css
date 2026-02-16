@@ -21,21 +21,15 @@
 #waybar {
   color: #eceff4;
   background-color: #1C1C23;
-  /* background-color: rgba(29, 29, 35, 0); */
-  /* background-color: #00FF00; */
   font-family: JetBrainsMonoNerdFont;
   font-size: 13px;
 }
 
 
-
 .modules-left>widget:first-child>* {
-  margin-left: 5px;
 }
 
-
 .modules-right>widget:last-child>* {
-  margin-right: 5px;
 }
 
 tooltip label {
@@ -47,29 +41,60 @@ tooltip label {
 #network {
   padding-left: 5px;
   padding-right: 5px;
-  margin-left: 1px;
+  margin-left: 2px;
   background-color: @elembg;
 }
+
 #privacy,
-#custom-updates,
-#custom-pacman,
-#custom-keyboard-layout,
-#cpu,
-#temperature,
-#disk,
+
+#cpu {
+  padding-right: 5px;
+  padding-left: 5px;
+  background-color: @elembg;
+  margin-left: 2px;
+}
+
+#temperature  {
+  padding-right: 5px;
+  padding-left: 5px;
+  background-color: @elembg;
+  margin-left: 1px;
+}
+
+#disk {
+  padding-right: 5px;
+  padding-left: 5px;
+  background-color: @elembg;
+  margin-left: 1px;
+}
+
 #memory,
+
 #wireplumber {
   padding-left: 5px;
   padding-right: 5px;
   background-color: @elembg;
-  margin-left: 1px;
-  margin-right: 1px;
+  margin-left: 2px;
 }
+
 #battery,
 #idle_inhibitor,
 #backlight,
-#bluetooth,
-#tray,
+
+#bluetooth {
+  margin-left: 2px;
+  background-color: @elembg;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#tray {
+  margin-left: 2px;
+  background-color: @elembg;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
 #clock {
   background-color: @elembg;
   padding-left: 5px;
@@ -113,6 +138,7 @@ tooltip label {
 #custom-reboot-uefi:hover,
 #custom-log-off:hover,
 #custom-suspend:hover,
+
 #custom-lock:hover {
   background: @hoverelembg;
 }
@@ -134,16 +160,10 @@ tooltip label {
   background-position: right center;
 }
 
-#window {
-  border-style: hidden;
-  padding-right: 5px;
-  padding-left: 5px;
-}
-
 #privacy {
   color: #ebcb8b;
   background: @elembg;
-  margin-left: 1px
+  margin-left: 2px;
 }
 
 #privacy:hover {
@@ -209,6 +229,8 @@ tooltip label {
 #workspaces button {
   background-color: #373737;
   margin-left: 1px;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 #workspaces button.active {
@@ -217,7 +239,14 @@ tooltip label {
 
 #window {
   background: @elembg;
-  margin-left: 5px;
+  border-style: hidden;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-left: 2px;
+}
+
+window#waybar.empty #window {
+  padding: 0;
 }
 
 #custom-mpd {
@@ -243,8 +272,10 @@ tooltip label {
 }
 
 #custom-weather {
-  margin-left: 1px;
+  margin-left: 2px;
   background-color: @elembg;
+  padding-top: 0px;
+  padding-bottom: 0px;
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -257,6 +288,7 @@ tooltip label {
   background-color: @elembg;
   padding-left: 5px;
   padding-right: 5px;
+  margin-left: 2px;
 }
 
 #mpd:hover {
