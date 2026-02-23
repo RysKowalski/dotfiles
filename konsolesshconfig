@@ -1,0 +1,12 @@
+[Global plugin config]
+manageProfile=false
+
+[SSH Config][server]
+hostname=83.229.84.40
+identifier=server
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=~/.ssh/rysserver
+useSshConfig=true
+username=root
