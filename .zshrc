@@ -71,7 +71,6 @@ zstyle ':omz:update' mode disabled  # disable automatic updates
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 
-
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 ZSH_AUTOSUGGEST_STRATEGY=(completion history)
@@ -125,6 +124,7 @@ export PATH="/home/ryskowalski/.cargo/bin:$PATH"
 export PATH="$PATH:/home/ryskowalski/.local/bin"
 export BUN_INSTALL="$HOME/.local/share/reflex/bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+export ANDROID_HOME="$HOME/Android"
 
 # ===============================
 # System Management
@@ -148,8 +148,9 @@ alias neofetch='echo "fastfetch you idiot" && fastfetch'
 alias ff='fastfetch'
 alias clock='tty-clock -s -S -c'
 alias snow='snowmachine tree --star=classic --snow-color=rainbow'
-alias nmatrix='neo-matrix -d 1 -f 165 --shortpct 95 --glitchpct 10 -F'
+alias nmatrix='neo-matrix -d 1.5 -f 165 --shortpct 95 --glitchpct 10 -F --shadingmode=1'
 alias isl='python ~/infinite_sl.py -ed3'
+alias text='figlet'
 
 
 # ===============================
@@ -178,11 +179,20 @@ alias gu='git pull'
 alias v='nvim'
 alias v.='nvim .'
 alias .v='nvim .'
+
 alias py='python'
+alias py13='python3.13'
 alias venv='source .venv/bin/activate'
-alias so='source'
+
 alias zrc='source ~/.zshrc'
+
 alias vass_interpreter='python /home/ryskowalski/projects/vass/interpreter.py'
+
+alias jb="javac"
+alias ja="java"
+export JAVA_HOME="/usr/lib/jvm/java-17-openjdk"
+export PATH="$JAVA_HOME/bin:$PATH"
+
 
 # ===============================
 # Games and Media
@@ -196,17 +206,24 @@ alias TerrariaServer='/home/ryskowalski/.local/share/Steam/steamapps/common/Terr
 alias ckear='clear'
 alias cleasr='clear'
 
+alias gpu_control='echo use lact'
+
 # ---- Git branch function ----
 git_branch() {
     local branch
     branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null)
     if [[ -n "$branch" && "$branch" != "main" && "$branch" != "master" ]]; then
-        echo "%F{yellow}($branch)%f "
+        echo "%F{#CECB00}($branch)%f "
     fi
 }
 
+# foot terminal
+precmd() {
+    print -Pn "\e]133;A\e\\"
+}
+
 # ---- Prompt ----
-PROMPT='%F{green}%n@%m%f:%F{blue}%~%f$(git_branch)$(if [[ $EUID == 0 ]]; then echo "%F{red}#"; else echo "%F{cyan}$"; fi)%f '
+PROMPT='%F{#32fc0f}%n@%m%f:%F{#1572CB}%~%f$(git_branch)$(if [[ $EUID == 0 ]]; then echo "%F{#FF0000}#"; else echo "%F{#0DCDCD}$"; fi)%f '
 
 
 # ---- zoxide ----
